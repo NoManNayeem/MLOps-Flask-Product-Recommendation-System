@@ -38,7 +38,7 @@ MLOps_Flask_Recommendation_System/
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/NoManNayeem/MLOps-Flask-Product-Recommendation-System.git
     cd MLOps_Flask_Recommendation_System
     ```
 
