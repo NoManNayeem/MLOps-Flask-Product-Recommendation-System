@@ -1,0 +1,51 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Docker files
+docker-compose.override.yml
+*.log
+
+# Flask specific files
+instance/
+*.pyo
+*.pkl
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.env
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
